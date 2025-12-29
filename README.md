@@ -6,9 +6,8 @@
 
 ### 🛠️ Tech Stack
 - Languages: Python, C
-- Frameworks: React, Node.js, Express
-- Tools: Git, VS Code, Figma, Postman
-- Databases: MongoDB, MySQL
+- Frameworks: Node.js
+- Tools: Git, VS Code, Canva
 
 ### 🌱 What I'm Up To
 - 💻 Building projects for techathons & uni events  
