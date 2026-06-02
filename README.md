@@ -1,19 +1,19 @@
-# 👋 Hey there, I'm Rupashi Jain  
+#  Hey there, I'm Rupashi Jain  
 
-🎓 I'm passionate about **AI, ML, and tech for social good**.  
-💡 Currently exploring **full-stack development** and **hackathon projects**.  
-🚀 Always learning, building, and experimenting with new ideas.
+ I'm passionate about **AI, ML, and tech**.  
+ Currently exploring **full-stack development**. 
+ Always learning, building, and experimenting with new ideas.
 
-### 🛠️ Tech Stack
+###  Tech Stack
 - Languages: Python, C
 - Frameworks: Node.js
 - Tools: Git, VS Code, Canva
 
-### 🌱 What I'm Up To
-- 💻 Building projects for techathons & uni events  
-- 📚 Learning about APIs, AI integrations, and cloud systems  
+###  What I'm Up To
+-  Building projects for techathons & uni events  
+-  Learning about APIs, AI integrations, and cloud systems  
 
-### 📫 Reach Me At
+###  Reach Me At
 [LinkedIn](www.linkedin.com/in/rupashijain25) | [Email](mailto:rupashijain2507@gmail.com) | 
 
 ---
