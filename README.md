@@ -1,4 +1,4 @@
-#  Hey there, I'm Rupashi Jain  
+#  Hey there, I'm Rupashi 
 
  I'm passionate about **AI, ML, and tech**.  
  Currently exploring **full-stack development**. 
@@ -14,11 +14,11 @@
 -  Learning about APIs, AI integrations, and cloud systems  
 
 ###  Reach Me At
-[LinkedIn](www.linkedin.com/in/rupashijain25) | [Email](mailto:rupashijain2507@gmail.com) | 
+[LinkedIn](www.linkedin.com/in/rupashijain25)  
 
 ---
 
-> *“Turning ideas into reality, one commit at a time.”*
+
 
 
 <!--
